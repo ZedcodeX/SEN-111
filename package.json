@@ -1,0 +1,20 @@
+{
+  "name": "sen111-course-website",
+  "version": "1.0.0",
+  "description": "Introduction to Web Programming & Design - ADUN Course Website",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python -m http.server 8000",
+    "start": "python -m http.server 8000"
+  },
+  "keywords": [
+    "web-development",
+    "html",
+    "css",
+    "javascript",
+    "course",
+    "education"
+  ],
+  "author": "Admiralty University of Nigeria",
+  "license": "MIT"
+}
